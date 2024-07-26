@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"In the main menu\", \"option2\": \"In a specific section (please specify)\"}, {\"question 2\": \"What functionality should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a pop-up message saying 'Hello World'\", \"option2\": \"Navigate to a specific page (please specify)\"}], \"input_token_count\": 261, \"output_token_count\": 106, \"time_taken\": \"0:00:03.062847\"}",
         "timestamp": "26072024064109",
         "message_id": "guest26072024064106"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable themes for the app interface, including dark mode\", \"checked\": false}, {\"feature\": \"Real-time notifications for new Ethereum blocks detection\", \"checked\": true}, {\"feature\": \"Interactive graphs to visualize block data over time\", \"checked\": false}, {\"feature\": \"Search functionality to filter blocks based on criteria (e.g., miner address, block size)\", \"checked\": true}, {\"feature\": \"User authentication system for personalized experiences\", \"checked\": false}, {\"feature\": \"Detailed transaction list within each block, including gas fees and transaction hash\", \"checked\": true}], \"input_token_count\": 215, \"output_token_count\": 136, \"time_taken\": \"0:00:03.740485\"}",
+        "timestamp": "26072024064110",
+        "message_id": "guest26072024064106"
     }
 ]
