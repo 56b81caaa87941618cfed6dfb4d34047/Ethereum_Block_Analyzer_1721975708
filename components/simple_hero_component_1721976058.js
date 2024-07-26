@@ -28,7 +28,7 @@ Vue.component("simple_hero_component_1721976058", {
                     </div>
 
                     <div id="hello-world-button-container" class="flex mt-4">
-                        <button id="hello-world-button" class="flex-1 px-5 py-3 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                        <button id="hello-world-button" class="flex-1 px-5 py-3 text-sm font-medium text-white bg-purple-600 rounded-lg hover:bg-purple-700 focus:outline-none focus:ring-4 focus:ring-purple-300 shadow-md">
                             Hello World
                         </button>
                     </div>
